@@ -1,0 +1,1 @@
+require.config({paths:{jquery:"jquery.min"}}),define(["require","jquery"],function(e){e(["index"],function(e){})});
